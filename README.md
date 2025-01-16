@@ -41,13 +41,6 @@ Actualmente trabajo en **ITAdmin**, donde hacemos modulos en python para Odoo, p
 
 ---
 
-## 📊 Estadísticas de GitHub  
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Conéctate conmigo  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a)   
