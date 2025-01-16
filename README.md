@@ -43,7 +43,7 @@ Actualmente trabajo en **ITAdmin**, donde hacemos modulos en python para Odoo, p
 
 ## 🌐 Conéctate conmigo  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a)   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a   
 
 ---
 
