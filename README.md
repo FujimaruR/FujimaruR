@@ -1,62 +1,69 @@
-# ¡Hola, soy Emilio Yair Castillo Pacheco! 👋  
-### Licenciado en Multimedia y Animación Digital | Programador Web 💻  
+# 👋 ¡Hola, soy Emilio Yair Castillo Pacheco!  
+### Desarrollador Web | Consultor Web | Licenciado en Multimedia y Animación Digital  
 
 ---
 
 ## 📌 Acerca de mí  
 
-Soy licenciado en Multimedia y Animación Digital por la **Facultad de Ciencias Físico-Matemáticas (UANL)**.  
-Me especializo en **programación web** y disfruto construir aplicaciones eficientes, escalables y bien diseñadas.  
+Soy **Licenciado en Multimedia y Animación Digital (UANL, 2024)** con experiencia en **desarrollo web, integración de sistemas y documentación técnica**.  
 
-Actualmente trabajo en **ITAdmin**, donde hacemos modulos en python para Odoo, pero estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y seguir creciendo como desarrollador.   
+Actualmente trabajo en **ITAdmin** como **mesa de ayuda** y **desarrollador de módulos en Python para Odoo**, enfocados en facturación, nómina y contabilidad.  
+
+Me apasiona construir **soluciones escalables, seguras y eficientes** que combinen un buen diseño con una arquitectura sólida. Estoy en búsqueda de nuevas oportunidades en **desarrollo web** o **consultoría tecnológica**.  
 
 ---
 
 ## 🛠️ Tecnologías y Habilidades  
 
-### **Lenguajes de Programación**  
-- **Expertos:** C#, C++, Python, PHP, Java, JavaScript, React.js  
-- **Conocimientos adicionales:** Kotlin, NoSQL  
+### **Lenguajes y Frameworks**  
+- React.js, Node.js, TypeScript, JavaScript  
+- Python (Odoo, Serverless, scripting)  
+- C, C++, C#, Java, PHP  
+- HTML, CSS  
 
 ### **Bases de Datos**  
-- SQL, MySQL, phpMyAdmin  
+- SQL (MySQL)  
+- NoSQL  
 
 ### **Otros Conocimientos**  
-- Animación y diseño multimedia  
-- Herramientas colaborativas (Git, GitHub)  
-- Desarrollo backend y frontend  
+- Docker, AWS, Documentación técnica  
+- Unreal Engine (gráficas computacionales)  
+- Git / GitHub / Metodologías ágiles (Scrum)  
 
 ---
 
 ## 🌟 Proyectos Destacados  
 
-- [**Sistema de Gestión Escolar para la facultad de ingenieria mecanica y electrica (FIME)**](https://github.com/FujimaruR/EncuestasFime_YairCastillo)  
+- [**Sistema de Gestión Escolar (FIME - UANL)**](https://github.com/FujimaruR/EncuestasFime_YairCastillo)  
   _Plataforma web para administrar calificaciones y asistencia en múltiples grupos._  
   - Tecnologías: React.js, Node.js, MySQL  
   - Características: Gestión de datos en tiempo real, exportación de reportes en Excel  
 
-- [**Sitio de Portafolio Profesional**](https://github.com/TuUsuario/Proyecto2)  
-  _Sitio web personal con diseño responsivo y funcionalidad dinámica._  
+- [**Portafolio Profesional**](https://github.com/FujimaruR/About_Me)  
+  _Sitio web personal con diseño responsivo y dinámico._  
   - Tecnologías: HTML, CSS, JavaScript, PHP  
+
+- [**Micherry**](https://github.com/FujimaruR/PWCI)  
+  _Sitio web e-commerce basado en Aliexpress._  
+  - Tecnologías: HTML, CSS, JavaScript, PHP, SQL  
 
 ---
 
 ## 🌐 Conéctate conmigo  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a)  
 
 ---
 
 ## 🎯 Intereses Profesionales  
 
-Busco oportunidades como **Programador Web**, especialmente en roles relacionados con:  
-- Desarrollo full-stack.  
-- Integración de bases de datos SQL/NoSQL.  
-- Soluciones basadas en React.js y Node.js.  
+Me interesa desarrollarme como:  
+- **Desarrollador Web Full-Stack**  
+- **Consultor Web / Cloud**  
+- Integración de **bases de datos SQL/NoSQL**  
+- Soluciones en **React.js y Node.js**  
+- Arquitecturas en la nube con **AWS / Serverless**  
 
 ---
 
-### ✨ ¡Gracias por visitar mi perfil!  
-No dudes en explorar mis repositorios y conectar conmigo para colaborar en proyectos o compartir ideas.   
-
- 
+✨ *Gracias por visitar mi perfil, no dudes en explorar mis repositorios y conectar conmigo.*  
