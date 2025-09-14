@@ -53,7 +53,7 @@ Me apasiona construir **soluciones escalables, seguras y eficientes** que combin
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-yair-castillo-pacheco-ba146227a)  
 
-[![Portafolio Web]](https://about-me-u9m4.vercel.app/)  
+[Portafolio Web](https://about-me-u9m4.vercel.app/)  
 
 ---
 
